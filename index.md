@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我爱你中国！
 
 You can use the [editor on GitHub](https://github.com/Doccolock/myh5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
